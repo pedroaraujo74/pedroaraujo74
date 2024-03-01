@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- Building [Lasso Ink](https://lasso.ink)
 
 <!--
 **pedroaraujo74/pedroaraujo74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
