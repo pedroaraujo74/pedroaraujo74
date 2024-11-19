@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Pedro, Freelancer and Indie Hacker
+
+## Latest Projects
+
+- [screvi.com](https://screvi.com)
+- [lasso.ink](https://lasso.ink)
+- [stats.training](https://stats.training)
+
 
 <!--
 **pedroaraujo74/pedroaraujo74** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
