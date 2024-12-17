@@ -1,12 +1,6 @@
 ### Hi there 👋
 
-I'm Pedro, Freelancer and Indie Hacker
 
-## Latest Projects
-
-- [screvi.com](https://screvi.com)
-- [lasso.ink](https://lasso.ink)
-- [stats.training](https://stats.training)
 
 
 <!--
